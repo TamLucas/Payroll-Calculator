@@ -1,6 +1,6 @@
 Employee Payout Program
 Introduction
-This program is developed to calculate the overtime and commission of employees. The program is developed by Tamires Lucas on 06/27/2022.
+This program is developed in Python to calculate the overtime and commission of employees. The program is developed by Tamires Lucas on 06/27/2022.
 
 Classes
 The program consists of four classes:
